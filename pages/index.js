@@ -1,5 +1,5 @@
 function Home(){
-    return <h1> Kamilla, que horas você marcou com a moça? </h1>
+    return <h1> Eu Amo Você <span style="color: red;">&hearts;</span> </h1>
 }
 
 export default Home;
